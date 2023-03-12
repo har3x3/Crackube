@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/har3x3/CracKube/static/css/main.58cf2ea3.css",
+    "main.js": "/har3x3/CracKube/static/js/main.c27e9b37.js",
+    "static/media/Sample-Blog-Thumbnail.svg": "/har3x3/CracKube/static/media/Sample-Blog-Thumbnail.8fcbb1b137d1445f9a0a0bf5d8f9cef9.svg",
+    "static/media/Sample-Author.svg": "/har3x3/CracKube/static/media/Sample-Author.469c6e2e2ca45bf4e7a304e18471b053.svg",
+    "static/media/Sample-Author 2.svg": "/har3x3/CracKube/static/media/Sample-Author 2.e255023e861b9952d0eecc1c239a8150.svg",
+    "static/media/Rectangle 120.svg": "/har3x3/CracKube/static/media/Rectangle 120.7e2fefe57c7de14e3ef167d25c7746a9.svg",
+    "static/media/Seriguela-Black.otf": "/har3x3/CracKube/static/media/Seriguela-Black.eb27a740a2fc6c8a8f58.otf",
+    "static/media/VisbyCF-ExtraBold.otf": "/har3x3/CracKube/static/media/VisbyCF-ExtraBold.51dd8c110490661aaec5.otf",
+    "static/media/VisbyCF-Bold.otf": "/har3x3/CracKube/static/media/VisbyCF-Bold.c09f12b6ca448e39dafb.otf",
+    "static/media/VisbyCF-Light.otf": "/har3x3/CracKube/static/media/VisbyCF-Light.886f885dc07abee067d3.otf",
+    "static/media/VisbyCF-Regular.otf": "/har3x3/CracKube/static/media/VisbyCF-Regular.90fa0184fe76d08f53b6.otf",
+    "static/media/VisbyCF-Medium.otf": "/har3x3/CracKube/static/media/VisbyCF-Medium.03ab2ebed9bb39b5e40c.otf",
+    "static/media/VisbyCF-Thin.otf": "/har3x3/CracKube/static/media/VisbyCF-Thin.3666141da8b744fdfb76.otf",
+    "static/media/dollar coin green custom 1.svg": "/har3x3/CracKube/static/media/dollar coin green custom 1.e89740e034a6f886d2b696bbf016f29d.svg",
+    "static/media/Diamond Logo 1.svg": "/har3x3/CracKube/static/media/Diamond Logo 1.f30e7a1326a27e3845d34c5c45fa9ec7.svg",
+    "static/media/PlusIcon 1.svg": "/har3x3/CracKube/static/media/PlusIcon 1.7d287c9cd5d1f61e12b1248ef5b27557.svg",
+    "static/media/Search 1.svg": "/har3x3/CracKube/static/media/Search 1.2705cff1d1ca3728e31ae3b2a18a728d.svg",
+    "index.html": "/har3x3/CracKube/index.html",
+    "static/media/Icon feather-bookmark.svg": "/har3x3/CracKube/static/media/Icon feather-bookmark.3bb34d02d364360212e4a81656a5eff3.svg",
+    "static/media/MenubarIcon 1.svg": "/har3x3/CracKube/static/media/MenubarIcon 1.7e7f34cec84831933c2889359e173506.svg",
+    "static/media/Logo Icon.svg": "/har3x3/CracKube/static/media/Logo Icon.256cb31cb5806c27a2c712203ee00e73.svg",
+    "main.58cf2ea3.css.map": "/har3x3/CracKube/static/css/main.58cf2ea3.css.map",
+    "main.c27e9b37.js.map": "/har3x3/CracKube/static/js/main.c27e9b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58cf2ea3.css",
+    "static/js/main.c27e9b37.js"
+  ]
+}

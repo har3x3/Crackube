@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Visby CF';
+  src: url(./styles/Fonts/VisbyCF-Regular.otf);
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Visby CF';
+  src: url(./styles/Fonts/VisbyCF-Bold.otf);
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Visby CF';
+  src: url(./styles/Fonts/VisbyCF-ExtraBold.otf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Visby CF';
+  src: url(./styles/Fonts/VisbyCF-Medium.otf);
+  font-weight: 150;
+}
+
+@font-face {
+  font-family: 'Visby CF';
+  src: url(./styles/Fonts/VisbyCF-Light.otf);
+  font-weight: 50;
+}
+
+@font-face {
+  font-family: 'Visby CF';
+  src: url(./styles/Fonts/VisbyCF-Thin.otf);
+  font-weight: 0;
+}
+
+@font-face {
+  font-family: 'Seriguela';
+  src: url(./styles/Fonts/seriguela/Seriguela-Black.otf);
+  font-weight: 0;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Visby CF', sans-serif;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
