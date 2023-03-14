@@ -1,5 +1,5 @@
 import styles from '../NavBar/TopNavBar.module.css'
-import searchicon from '../../styles/Icons/Search 1.svg';
+import searchicon from '../../../styles/Icons/Search 1.svg';
 import { useState } from 'react';
 
 export default function TopNavBar(){
